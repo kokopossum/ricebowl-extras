@@ -1,0 +1,4 @@
+Inspired by:
+@dylhack:minds.com, @Oha-you and @zhunynho
+"Discord Black Theme" 
+https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Black/Discord-Black-Theme.json

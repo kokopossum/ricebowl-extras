@@ -1,0 +1,38 @@
+{
+      "name": "Jungle Japes",
+      "is_dark": true,
+      "colors": {
+        "accent-color": "#aabfbf",
+        "accent": "#aabfbf",
+        "primary-color": "#44605A",
+        "warning-color": "#495734",
+        "alert": "#77D94F",
+        "sidebar-color": "#06130E",
+        "roomlist-background-color": "#2F4C46",
+        "roomlist-text-color": "#aabfbf",
+        "roomlist-text-secondary-color": "#495734",
+        "roomlist-highlights-color": "#768585",
+        "roomlist-separator-color": "#516F6B",
+        "timeline-background-color": "#06130E",
+        "timeline-text-color": "#aabfbf",
+        "timeline-text-secondary-color": "#aabfbf",
+        "timeline-highlights-color": "#495734",
+        "username-colors": [
+          "#aabfbf"
+        ],
+        "avatar-background-colors": [
+          "#3F6059",
+          "#44605A",
+          "#516F6B"
+        ],
+        "reaction-row-button-selected-bg-color": "#44605A",
+        "menu-selected-color": "#44605A",
+        "focus-bg-color": "#44605A",
+        "room-highlight-color": "#44605A",
+        "other-user-pill-bg-color": "#44605A",
+        "icon-button-color": "#5F817D",
+        "togglesw-off-color": "#44605A",
+        "secondary-content": "#aabfbf",
+        "tertiary-content": "#aabfbf"
+      }
+    }
