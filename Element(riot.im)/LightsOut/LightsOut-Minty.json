@@ -1,5 +1,5 @@
 {
-    "name": "LightsOut",
+    "name": "LightsOutMinty",
     "is_dark": true,
     "colors": {
         "accent-color": "#c9ffcb",
@@ -12,7 +12,7 @@
         "roomlist-background-color": "#000000",
         "roomlist-text-color": "#dcddde",
         "roomlist-text-secondary-color": "#8e9297",
-        "roomlist-highlights-color": "#4f545c52",
+        "roomlist-highlights-color": "#DCDDDE",
         "roomlist-separator-color": "#40444b",
 
         "timeline-background-color": "#000000",
@@ -20,13 +20,13 @@
         "secondary-content": "#dcddde",
         "tertiary-content": "#dcddde",
         "timeline-text-secondary-color": "#b9bbbe",
-        "timeline-highlights-color": "#04040512",
+        "timeline-highlights-color": "#487d4a12",
 
-        "reaction-row-button-selected-bg-color": "#4752c4",
-        "menu-selected-color": "#4752c4",
-        "focus-bg-color": "#4752c4",
-        "room-highlight-color": "#4752c4",
-        "other-user-pill-bg-color": "#4752c4",
+        "reaction-row-button-selected-bg-color": "#487d4a",
+        "menu-selected-color": "#487d4a",
+        "focus-bg-color": "#487d4a",
+        "room-highlight-color": "#487d4a",
+        "other-user-pill-bg-color": "#487d4a",
         "togglesw-off-color": "#72767d"
     }
 }
