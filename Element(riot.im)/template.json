@@ -1,0 +1,39 @@
+{
+  "name": "",
+  "is_dark": T/F ?,
+  "colors": {
+    "accent-color": "",
+    "accent": "",
+    "primary-color": "",
+    "warning-color": "",
+    "alert": "",
+    "sidebar-color": "",
+    "roomlist-background-color": "",
+    "roomlist-text-color": "",
+    "roomlist-text-secondary-color": "",
+    "roomlist-highlights-color": "",
+    "roomlist-separator-color": "",
+    "timeline-background-color": "",
+    "timeline-text-color": "",
+    "timeline-text-secondary-color": "",
+    "timeline-highlights-color": "",
+    "username-colors": [
+      ""
+    ],
+    "avatar-background-colors": [
+      "",
+      "",
+      ""
+    ],
+    "reaction-row-button-selected-bg-color": "",
+    "menu-selected-color": "",
+    "focus-bg-color": "",
+    "room-highlight-color": "",
+    "other-user-pill-bg-color": "",
+    "icon-button-color": "",
+    "togglesw-off-color": "",
+    "secondary-content": "",
+    "tertiary-content": ""
+  }
+}
+
