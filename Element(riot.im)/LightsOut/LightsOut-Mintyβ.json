@@ -1,0 +1,31 @@
+{
+  "name": "LightsOut Minty",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#487D49",
+    "accent": "c9ffcb",
+    "primary-color": "c9ffcb",
+    "warning-color": "#faa81ad9",
+    "alert": "faa81ad9",
+    "sidebar-color": "#000000",
+    "roomlist-background-color": "#000000",
+    "roomlist-text-color": "#dcddde",
+    "roomlist-text-secondary-color": "#8e9297",
+    "roomlist-highlights-color": "#e0e2e4",
+    "roomlist-separator-color": "",
+    "timeline-background-color": "#000000",
+    "timeline-text-color": "#dcddde",
+    "timeline-text-secondary-color": "#b9bbbe",
+    "timeline-highlights-color": "#487d4a12",
+    "reaction-row-button-selected-bg-color": "#487d4a",
+    "menu-selected-color": "#487d4a",
+    "focus-bg-color": "#487d4a",
+    "room-highlight-color": "#487d4a",
+    "other-user-pill-bg-color": "#487d4a",
+    "icon-button-color": "#e9e57d",
+    "togglesw-off-color": "#000000",
+    "secondary-content": "#487D49",
+    "tertiary-content": "#487D49"
+  }
+}
+
