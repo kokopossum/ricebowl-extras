@@ -1,33 +1,32 @@
 {
-    "name": "LightsOutMinty",
-    "is_dark": true,
-    "colors": {
-        "accent-color": "#c9ffcb",
-        "accent": "#c9ffcb",
-        "primary-color": "#c9ffcb",
-        "warning-color": "#faa81ad9",
-        "alert": "#faa81ad9",
-
-        "sidebar-color": "#000000",
-        "roomlist-background-color": "#000000",
-        "roomlist-text-color": "#dcddde",
-        "roomlist-text-secondary-color": "#8e9297",
-        "roomlist-highlights-color": "#DCDDDE",
-        "roomlist-separator-color": "#40444b",
-
-        "timeline-background-color": "#000000",
-        "timeline-text-color": "#dcddde",
-        "secondary-content": "#dcddde",
-        "tertiary-content": "#dcddde",
-        "timeline-text-secondary-color": "#b9bbbe",
-        "timeline-highlights-color": "#487d4a12",
-
-        "reaction-row-button-selected-bg-color": "#487d4a",
-        "menu-selected-color": "#487d4a",
-        "focus-bg-color": "#487d4a",
-        "room-highlight-color": "#487d4a",
-        "other-user-pill-bg-color": "#487d4a",
-        "togglesw-off-color": "#72767d"
-    }
+  "name": "LightsOut Minty",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#487D49",
+    "accent": "#747ff4",
+    "primary-color": "#c9ffcb",
+    "warning-color": "#faa81ad9",
+    "alert": "#faa81ad9",
+    "sidebar-color": "#000000",
+    "roomlist-background-color": "#000000",
+    "roomlist-text-color": "#dcddde",
+    "roomlist-text-secondary-color": "#8e19297",
+    "roomlist-highlights-color": "#4f545c52",
+    "roomlist-separator-color": "#40444b",
+    "timeline-background-color": "#000000",
+    "timeline-text-color": "#dcddde",
+    "timeline-text-secondary-color": "#b9bbbe",
+    "timeline-highlights-color": "#325734",
+    "username-colors": ["#64a263", "#7dd07d", "#98ff98"],
+    "reaction-row-button-selected-bg-color": "#4752c4",
+    "menu-selected-color": "#4752c4",
+    "focus-bg-color": "#4752c4",
+    "room-highlight-color": "#4752c4",
+    "other-user-pill-bg-color": "#4752c4",
+    "icon-button-color": "#DCDDDE",
+    "togglesw-off-color": "#72767d",
+    "secondary-content": "#dcddde",
+    "tertiary-content": "#dcddde"
+  }
 }
 
