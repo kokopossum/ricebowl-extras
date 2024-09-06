@@ -18,6 +18,7 @@
     "timeline-text-secondary-color": "#b9bbbe",
     "timeline-highlights-color": "#325734",
     "username-colors": ["#64a263", "#7dd07d", "#98ff98"],
+    "avatar-background-colors": "#000000", 
     "reaction-row-button-selected-bg-color": "#c9ffcb",
     "menu-selected-color": "#c9ffcb",
     "focus-bg-color": "#c9ffcb",
